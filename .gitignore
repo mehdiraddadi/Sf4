@@ -7,4 +7,7 @@
 /public/bundles/
 /var/
 /vendor/
+.gitignore
+.docker/data
+.docker/rabbitmq
 ###< symfony/framework-bundle ###
